@@ -1,0 +1,11 @@
+﻿Country,Official_Name,Population,Area,Alpha2_Code,Region,Languages
+Russia,Russian Federation,146028325,17098242.0,RU,Europe,Russian
+Antarctica,Antarctica,1300,14000000.0,AQ,Antarctic,
+Canada,Canada,41798407,9984670.0,CA,Americas,"English, French"
+China,People's Republic of China,1404890000,9706961.0,CN,Asia,Chinese
+United States,United States of America,341784857,9372610.0,US,Americas,English
+Brazil,Federative Republic of Brazil,214211951,8515767.0,BR,Americas,Portuguese
+Australia,Commonwealth of Australia,27921150,7692024.0,AU,Oceania,English
+India,Republic of India,1429404000,3287590.0,IN,Asia,"English, Hindi, Tamil"
+Argentina,Argentine Republic,46466688,2780400.0,AR,Americas,"Guarani, Spanish"
+Kazakhstan,Republic of Kazakhstan,20618796,2724900.0,KZ,Asia,"Kazakh, Russian"
