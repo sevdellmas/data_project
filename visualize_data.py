@@ -8,7 +8,7 @@ def generate_visualizations(
     processed_dir: Path = Path("data/processed"),
     figures_dir: Path = Path("reports/figures")
 ):
-    # Görsel stilini ayarlayalım
+    # Görsel stili
     sns.set_theme(style="whitegrid")
     plt.rcParams["font.sans-serif"] = "Segoe UI"
 
@@ -97,9 +97,16 @@ def generate_visualizations(
         plt.savefig(bar_path, dpi=300)
         plt.close()
 
+    # Ayrıca kök dizindeki figures klasörünü de senkronize edelim
+    root_figures_dir = Path("figures")
+    root_figures_dir.mkdir(parents=True, exist_ok=True)
+    import shutil
+    for fig_file in figures_dir.glob("*.png"):
+        shutil.copy2(fig_file, root_figures_dir / fig_file.name)
+
     print(
         "Tüm keşifsel analiz grafikleri başarıyla oluşturuldu ve"
-        f" '{figures_dir}' klasörüne kaydedildi!"
+        f" '{figures_dir}' ile '{root_figures_dir}' klasörlerine kaydedildi!"
     )
     return scatter_path, hist_path, bar_path
 

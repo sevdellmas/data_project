@@ -4,7 +4,7 @@ Afghanistan,Islamic Republic of Afghanistan,43844000,652230.0,AF,Asia,"Dari, Pas
 Albania,Republic of Albania,2335930,28748.0,AL,Europe,Albanian,81.25539167942118
 Algeria,People's Democratic Republic of Algeria,47400000,2381741.0,DZ,Africa,Arabic,19.901408255557595
 American Samoa,American Samoa,43268,199.0,AS,Oceania,"English, Samoan",217.42713567839195
-Andorra,Principality of Andorra,90105,468.0,AD,Europe,Catalan,192.53205128205127
+Andorra,Principality of Andorra,90271,468.0,AD,Europe,Catalan,192.88675213675214
 Angola,Republic of Angola,38778554,1246700.0,AO,Africa,Portuguese,31.104960295179275
 Anguilla,Anguilla,16010,91.0,AI,Americas,English,175.93406593406593
 Antarctica,Antarctica,1300,14000000.0,AQ,Antarctic,,9.285714285714286e-05
@@ -13,14 +13,14 @@ Argentina,Argentine Republic,46466688,2780400.0,AR,Americas,"Guarani, Spanish",1
 Armenia,Republic of Armenia,3103900,29743.0,AM,Asia,Armenian,104.35732777460242
 Aruba,Aruba,110625,180.0,AW,Americas,"Dutch, Papiamento",614.5833333333334
 Australia,Commonwealth of Australia,27921150,7692024.0,AU,Oceania,English,3.6298833700986894
-Austria,Republic of Austria,9217573,83871.0,AT,Europe,German,109.90178965315782
+Austria,Republic of Austria,9228795,83871.0,AT,Europe,German,110.03559037092678
 Azerbaijan,Republic of Azerbaijan,10273450,86600.0,AZ,Asia,Azerbaijani,118.6310623556582
 Bahamas,Commonwealth of the Bahamas,398165,13943.0,BS,Americas,English,28.5566233952521
 Bahrain,Kingdom of Bahrain,1603260,765.0,BH,Asia,Arabic,2095.764705882353
 Bangladesh,People's Republic of Bangladesh,169828911,147570.0,BD,Asia,Bengali,1150.8362878633868
 Barbados,Barbados,261692,430.0,BB,Americas,English,608.586046511628
 Belarus,Republic of Belarus,9056080,207600.0,BY,Europe,"Belarusian, Russian",43.62273603082852
-Belgium,Kingdom of Belgium,11942772,30528.0,BE,Europe,"German, French, Dutch",391.2071540880503
+Belgium,Kingdom of Belgium,11947050,30528.0,BE,Europe,"German, French, Dutch",391.3472877358491
 Belize,Belize,418982,22966.0,BZ,Americas,"Belize Kriol, English, Spanish",18.243577462335626
 Benin,Republic of Benin,13551992,112622.0,BJ,Africa,French,120.3316581129797
 Bermuda,Bermuda,64055,54.0,BM,Americas,English,1186.2037037037037
@@ -56,10 +56,10 @@ Costa Rica,Republic of Costa Rica,5160700,51100.0,CR,Americas,Spanish,100.992172
 Croatia,Republic of Croatia,3874993,56594.0,HR,Europe,Croatian,68.4700321588861
 Cuba,Republic of Cuba,9434593,109884.0,CU,Americas,Spanish,85.85957009209712
 Curaçao,Country of Curaçao,155826,444.0,CW,Americas,"English, Dutch, Papiamento",350.9594594594595
-Cyprus,Republic of Cyprus,983000,9251.0,CY,Europe,"Greek, Turkish",106.25878283428818
+Cyprus,Republic of Cyprus,996600,9251.0,CY,Europe,"Greek, Turkish",107.72889417360285
 Czechia,Czech Republic,10903655,78865.0,CZ,Europe,"Czech, Slovak",138.25721169086412
 DRC,Democratic Republic of the Congo,116452000,2344858.0,CD,Africa,"French, Kongo, Lingala, Luba-Lulua, Swahili",49.66270878663015
-Denmark,Kingdom of Denmark,6038638,43094.0,DK,Europe,Danish,140.12711746414814
+Denmark,Kingdom of Denmark,6044001,43094.0,DK,Europe,Danish,140.25156634334246
 Djibouti,Republic of Djibouti,1066809,23200.0,DJ,Africa,"Arabic, French",45.98314655172414
 Dominica,Commonwealth of Dominica,65431,751.0,DM,Americas,English,87.12516644474034
 Dominican Republic,Dominican Republic,11532151,48671.0,DO,Americas,Spanish,236.9409093710834
@@ -72,9 +72,9 @@ Estonia,Republic of Estonia,1360745,45227.0,EE,Europe,Estonian,30.08700554978221
 Eswatini,Kingdom of Eswatini,1235549,17364.0,SZ,Africa,"English, Swazi",71.15578207786224
 Ethiopia,Federal Democratic Republic of Ethiopia,111652998,1104300.0,ET,Africa,Amharic,101.10748709589785
 Falkland Islands,Falkland Islands,3662,12173.0,FK,Americas,English,0.3008297050850242
-Faroe Islands,Faroe Islands,56210,1393.0,FO,Europe,"Danish, Faroese",40.35175879396985
+Faroe Islands,Faroe Islands,55466,1393.0,FO,Europe,"Danish, Faroese",39.81765972720746
 Fiji,Republic of Fiji,902623,18272.0,FJ,Oceania,"English, Fijian, Fiji Hindi",49.399244746059544
-Finland,Republic of Finland,5659324,338424.0,FI,Europe,"Finnish, Swedish",16.722584686665247
+Finland,Republic of Finland,5662086,338424.0,FI,Europe,"Finnish, Swedish",16.73074604637969
 France,French Republic,69081996,551695.0,FR,Europe,French,125.21773081140847
 French Guiana,Guiana,254541,83534.0,GF,Americas,French,3.047154452079393
 French Polynesia,French Polynesia,278786,4167.0,PF,Oceania,French,66.90328773698104
@@ -100,34 +100,34 @@ Heard Island and McDonald Islands,Heard Island and McDonald Islands,0,412.0,HM,A
 Honduras,Republic of Honduras,10186738,112492.0,HN,Americas,Spanish,90.55522170465456
 Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,7498100,1104.0,HK,Asia,"English, Chinese",6791.757246376812
 Hungary,Hungary,9488428,93028.0,HU,Europe,Hungarian,101.99539923463904
-Iceland,Iceland,396500,103000.0,IS,Europe,Icelandic,3.849514563106796
+Iceland,Iceland,397710,103000.0,IS,Europe,Icelandic,3.8612621359223303
 India,Republic of India,1429404000,3287590.0,IN,Asia,"English, Hindi, Tamil",434.7877928817158
-Indonesia,Republic of Indonesia,288315089,1904569.0,ID,Asia,Indonesian,151.38075281074092
+Indonesia,Republic of Indonesia,290125073,1904569.0,ID,Asia,Indonesian,152.33109065620621
 Iran,Islamic Republic of Iran,87134000,1648195.0,IR,Asia,Persian,52.866317395696505
 Iraq,Republic of Iraq,46118793,438317.0,IQ,Asia,"Arabic, Aramaic, Central Kurdish",105.21789709274339
 Ireland,Republic of Ireland,5525600,70273.0,IE,Europe,"English, Irish",78.63048396966119
-Isle of Man,Isle of Man,84523,572.0,IM,Europe,"English, Manx",147.7674825174825
-Israel,State of Israel,10305000,20770.0,IL,Asia,"Arabic, Hebrew",496.1482908040443
-Italy,Italian Republic,58943673,301336.0,IT,Europe,"Italian, Catalan",195.60780324952876
+Isle of Man,Isle of Man,84975,572.0,IM,Europe,"English, Manx",148.55769230769232
+Israel,State of Israel,10296300,20770.0,IL,Asia,"Arabic, Hebrew",495.7294174289841
+Italy,Italian Republic,58949500,301336.0,IT,Europe,"Italian, Catalan",195.62714046778348
 Ivory Coast,Republic of Côte d'Ivoire,33293101,322463.0,CI,Africa,French,103.24626701357985
 Jamaica,Jamaica,2774538,10991.0,JM,Americas,"English, Jamaican Patois",252.4372668546993
-Japan,Japan,122650000,377930.0,JP,Asia,Japanese,324.5309978038261
+Japan,Japan,122690000,377930.0,JP,Asia,Japanese,324.6368375095917
 Jersey,Bailiwick of Jersey,104540,116.0,JE,Europe,"English, French, Norman",901.2068965517242
 Jordan,Hashemite Kingdom of Jordan,11937000,89342.0,JO,Asia,Arabic,133.61017214747824
-Kazakhstan,Republic of Kazakhstan,20618796,2724900.0,KZ,Asia,"Kazakh, Russian",7.5668083232412195
+Kazakhstan,Republic of Kazakhstan,20633529,2724900.0,KZ,Asia,"Kazakh, Russian",7.5722151271606295
 Kenya,Republic of Kenya,54227015,580367.0,KE,Africa,"English, Swahili",93.43573118388882
 Kiribati,Independent and Sovereign Republic of Kiribati,120740,811.0,KI,Oceania,"English, Gilbertese",148.87792848335388
 Kosovo,Republic of Kosovo,1582322,10908.0,XK,Europe,"Albanian, Serbian",145.06068940227357
 Kuwait,State of Kuwait,4881254,17818.0,KW,Asia,Arabic,273.9507239869795
 Kyrgyzstan,Kyrgyz Republic,7404300,199951.0,KG,Asia,"Kyrgyz, Russian",37.03057249026011
 Laos,Lao People's Democratic Republic,7745000,236800.0,LA,Asia,Lao,32.70692567567568
-Latvia,Republic of Latvia,1832100,64559.0,LV,Europe,Latvian,28.37869235892749
+Latvia,Republic of Latvia,1828600,64559.0,LV,Europe,Latvian,28.324478384113757
 Lebanon,Lebanese Republic,5895466,10452.0,LB,Asia,"Arabic, French",564.0514734022197
 Lesotho,Kingdom of Lesotho,2116427,30355.0,LS,Africa,"English, Sotho",69.72251688354473
 Liberia,Republic of Liberia,5248621,111369.0,LR,Africa,English,47.128204437500564
 Libya,State of Libya,7539852,1759540.0,LY,Africa,Arabic,4.285126794503109
 Liechtenstein,Principality of Liechtenstein,41228,160.0,LI,Europe,German,257.675
-Lithuania,Republic of Lithuania,2887761,65300.0,LT,Europe,Lithuanian,44.22298621745789
+Lithuania,Republic of Lithuania,2890874,65300.0,LT,Europe,Lithuanian,44.2706584992343
 Luxembourg,Grand Duchy of Luxembourg,690959,2586.0,LU,Europe,"German, French, Luxembourgish",267.19218870843
 Macau,Macao Special Administrative Region of the People's Republic of China,686500,30.0,MO,Asia,"Portuguese, Chinese",22883.333333333332
 Madagascar,Republic of Madagascar,32658977,587041.0,MG,Africa,"French, Malagasy",55.63321301237903
@@ -154,7 +154,7 @@ Myanmar,Republic of the Union of Myanmar,51375327,676578.0,MM,Asia,Burmese,75.93
 Namibia,Republic of Namibia,3022401,825615.0,,Africa,"Afrikaans, German, English, Herero, Hai‖om, Kwangali, Lozi, Ndonga, Tswana",3.6607874130193854
 Naoero,Republic of Naoero,11680,21.0,NR,Oceania,"English, Nauruan",556.1904761904761
 Nepal,Federal Democratic Republic of Nepal,30034040,147181.0,NP,Asia,Nepali,204.06193734245588
-Netherlands,Kingdom of the Netherlands,18171612,41850.0,NL,Europe,Dutch,434.20817204301073
+Netherlands,Kingdom of the Netherlands,18192693,41850.0,NL,Europe,Dutch,434.7118996415771
 New Caledonia,New Caledonia,264596,18575.0,NC,Oceania,French,14.244737550471063
 New Zealand,New Zealand,4993923,270467.0,NZ,Oceania,"English, Maori, New Zealand Sign Language",18.464075099734902
 Nicaragua,Republic of Nicaragua,6874748,130373.0,NI,Americas,Spanish,52.73137842958281
@@ -167,7 +167,7 @@ North Macedonia,Republic of North Macedonia,1836713,25713.0,MK,Europe,Macedonian
 Northern Cyprus,Turkish Republic of Northern Cyprus,382836,3355.0,,Europe,Turkish,114.10909090909091
 Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,46078,464.0,MP,Oceania,"Carolinian, Chamorro, English",99.30603448275862
 Norway,Kingdom of Norway,5636904,323802.0,NO,Europe,"Norwegian Nynorsk, Norwegian Bokmål, Northern Sami, Lule Sami, Southern Sami",17.40849037374692
-Oman,Sultanate of Oman,5398645,309500.0,OM,Asia,Arabic,17.443117932148628
+Oman,Sultanate of Oman,5454352,309500.0,OM,Asia,Arabic,17.623108239095316
 Pakistan,Islamic Republic of Pakistan,241499431,881912.0,PK,Asia,"English, Urdu",273.83620021045186
 Palau,Republic of Palau,16733,459.0,PW,Oceania,"English, Palauan",36.45533769063181
 Palestine,State of Palestine,5557096,6220.0,PS,Asia,Arabic,893.4237942122187
@@ -177,7 +177,7 @@ Paraguay,Republic of Paraguay,6109644,406752.0,PY,Americas,"Guarani, Spanish",15
 Peru,Republic of Peru,34157732,1285216.0,PE,Americas,"Aymara, Quechua, Spanish",26.577425117645593
 Philippines,Republic of the Philippines,114849400,342353.0,PH,Asia,"English, Filipino",335.4706983727322
 Pitcairn Islands,Pitcairn Group of Islands,35,47.0,PN,Oceania,English,0.7446808510638298
-Poland,Republic of Poland,37232000,312679.0,PL,Europe,Polish,119.0741943015041
+Poland,Republic of Poland,37221000,312679.0,PL,Europe,Polish,119.0390144525216
 Portugal,Portuguese Republic,11424031,92090.0,PT,Europe,Portuguese,124.05289390813334
 Puerto Rico,Commonwealth of Puerto Rico,3184195,8870.0,PR,Americas,"English, Spanish",358.9847801578354
 Qatar,State of Qatar,3370611,11586.0,QA,Asia,Arabic,290.92102537545315
@@ -190,10 +190,10 @@ Saint Barthélemy,Collectivity of Saint Barthélemy,4255,21.0,BL,Americas,French
 Saint Kitts and Nevis,Federation of Saint Christopher and Nevis,54338,261.0,KN,Americas,English,208.19157088122606
 Saint Lucia,Saint Lucia,184100,616.0,LC,Americas,English,298.8636363636364
 Saint Martin,Saint Martin,38659,53.0,MF,Americas,French,729.4150943396227
-Saint Pierre and Miquelon,Saint Pierre and Miquelon,5819,242.0,PM,Americas,French,24.045454545454547
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,5790,242.0,PM,Americas,French,23.925619834710744
 Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,109296,389.0,VC,Americas,English,280.9665809768638
 Samoa,Independent State of Samoa,205557,2842.0,WS,Oceania,"English, Samoan",72.32828993666432
-San Marino,Republic of San Marino,34172,61.0,SM,Europe,Italian,560.1967213114754
+San Marino,Republic of San Marino,33605,61.0,SM,Europe,Italian,550.9016393442623
 Saudi Arabia,Kingdom of Saudi Arabia,35325004,2149690.0,SA,Asia,Arabic,16.43260377077625
 Senegal,Republic of Senegal,19575061,196722.0,SN,Africa,French,99.506211811592
 Serbia,Republic of Serbia,6532019,88361.0,RS,Europe,Serbian,73.92423127850522
@@ -202,25 +202,25 @@ Sierra Leone,Republic of Sierra Leone,8460512,71740.0,SL,Africa,English,117.9329
 Singapore,Republic of Singapore,6208500,710.0,SG,Asia,"English, Chinese, Malay, Tamil",8744.366197183099
 Sint Maarten,Sint Maarten,58477,34.0,SX,Americas,"English, French, Dutch",1719.9117647058824
 Slovakia,Slovak Republic,5403009,49037.0,SK,Europe,Slovak,110.18229092318046
-Slovenia,Republic of Slovenia,2136385,20273.0,SI,Europe,Slovenian,105.38080205199033
+Slovenia,Republic of Slovenia,2138751,20273.0,SI,Europe,Slovenian,105.49750900212105
 Solomon Islands,Solomon Islands,828857,28896.0,SB,Oceania,English,28.684143133997786
 Somalia,Federal Republic of Somalia,20305907,637657.0,SO,Africa,"Arabic, Somali",31.84456063369492
 Somaliland,Republic of Somaliland,4914100,137600.0,,Africa,"Somali, Arabic, English",35.71293604651163
 South Africa,Republic of South Africa,63015904,1221037.0,ZA,Africa,"Afrikaans, English, Southern Ndebele, Northern Sotho, Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu",51.608513091740875
-South Georgia,South Georgia and the South Sandwich Islands,32,3903.0,GS,Antarctic,English,0.008198821419420958
+South Georgia,South Georgia and the South Sandwich Islands,30,3903.0,GS,Antarctic,English,0.007686395080707148
 South Korea,Republic of Korea,51106229,100210.0,KR,Asia,Korean,509.9913082526694
 South Ossetia,Republic of South Ossetia,56520,3900.0,,Asia,"Ossetic, Russian",14.492307692307692
 South Sudan,Republic of South Sudan,12703714,619745.0,SS,Africa,English,20.498292039467845
-Spain,Kingdom of Spain,49801559,505992.0,ES,Europe,"Spanish, Catalan, Basque, Galician, Aranese",98.42360946418125
+Spain,Kingdom of Spain,49935642,505992.0,ES,Europe,"Spanish, Catalan, Basque, Galician, Aranese",98.68859981976
 Sri Lanka,Democratic Socialist Republic of Sri Lanka,21756000,65610.0,LK,Asia,"Sinhala, Tamil",331.5957933241884
 Sudan,Republic of the Sudan,53282719,1886068.0,SD,Africa,"Arabic, English",28.250688204242902
 Suriname,Republic of Suriname,616500,163820.0,SR,Americas,Dutch,3.763276767183494
 Svalbard and Jan Mayen,Svalbard og Jan Mayen,2562,61399.0,SJ,Europe,Norwegian,0.041727063958696395
-Sweden,Kingdom of Sweden,10621103,450295.0,SE,Europe,Swedish,23.586988529741614
+Sweden,Kingdom of Sweden,10621725,450295.0,SE,Europe,Swedish,23.588369846434006
 Switzerland,Swiss Confederation,9154896,41284.0,CH,Europe,"French, Swiss German, Italian, Romansh",221.75409359558182
 Syria,Syrian Arab Republic,26472497,185180.0,SY,Asia,Arabic,142.9554865536235
 São Tomé and Príncipe,Democratic Republic of São Tomé and Príncipe,220372,964.0,ST,Africa,Portuguese,228.60165975103735
-Taiwan,Republic of China (Taiwan),23224721,36193.0,TW,Asia,Chinese,641.6909623407842
+Taiwan,Republic of China (Taiwan),23204000,36193.0,TW,Asia,Chinese,641.1184483187357
 Tajikistan,Republic of Tajikistan,10721000,143100.0,TJ,Asia,"Russian, Tajik",74.91963661774983
 Tanzania,United Republic of Tanzania,70038850,945087.0,TZ,Africa,"English, Swahili",74.10836251054135
 Thailand,Kingdom of Thailand,70250751,513120.0,TH,Asia,Thai,136.90900958840038
@@ -232,7 +232,7 @@ Trinidad and Tobago,Republic of Trinidad and Tobago,1512779,5130.0,TT,Americas,E
 Tunisia,Republic of Tunisia,11992843,163610.0,TN,Africa,Arabic,73.30140578204266
 Turkey,Republic of Türkiye,86092168,783562.0,TR,Asia,Turkish,109.87282180606002
 Turkmenistan,Turkmenistan,7057841,488100.0,TM,Asia,"Russian, Turkmen",14.459825855357508
-Turks and Caicos Islands,Turks and Caicos Islands,50828,948.0,TC,Americas,English,53.61603375527426
+Turks and Caicos Islands,Turks and Caicos Islands,52299,948.0,TC,Americas,English,55.16772151898734
 Tuvalu,Tuvalu,10643,26.0,TV,Oceania,"English, Tuvaluan",409.34615384615387
 Uganda,Republic of Uganda,45905417,241550.0,UG,Africa,"English, Swahili",190.04519561167461
 Ukraine,Ukraine,28700000,603500.0,UA,Europe,Ukrainian,47.55592377796189
